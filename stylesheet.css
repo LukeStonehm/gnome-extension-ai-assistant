@@ -1,0 +1,10 @@
+/* Add your custom extension styling here */
+.woocommerce-product-gallery__trigger {
+  display: none;
+}
+
+.woocommerce-product-gallery__trigger:hover {
+  display: none;
+}
+
+/*# sourceMappingURL=stylesheet.css.map */

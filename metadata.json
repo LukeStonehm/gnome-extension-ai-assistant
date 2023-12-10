@@ -1,0 +1,8 @@
+{
+  "name": "AI Assistant",
+  "description": "A Gnome extension that invokes an instance of an AI assistant",
+  "uuid": "gnomeaiassistant@lukestonehm.co.za",
+  "shell-version": [
+    "42"
+  ]
+}
